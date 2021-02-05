@@ -22,13 +22,15 @@
 
 .carte {
     overflow: hidden;
-    margin: 3vw
+    margin-top: 3vw;
 }
+
 .carte, .carte-image, .carte-description {
-    width: 50vw
+    width: 24vw;
 }
 
 .carte-image {
+    /* https://stackoverflow.com/questions/7774814/remove-white-space-below-image */
     display: block;
 }
 
