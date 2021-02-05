@@ -4,12 +4,15 @@
     margin-top: 10vw;
 }
 
-.titre, .paragraph, .carte-description {
-   font-family: sans-serif; 
-   background-color: rgba(17, 15, 15, 0.589);
-   padding: 10px;
-   color:rgba(255, 255, 255, 0.849)
+/* commentaire d'une ligne */
+
+.titre, .paragraphe, .carte-description {
+    font-family: DM Sans;
+    background-color: #1c0d8d;
+    padding: 10px;
+    color: #ffffff;
 }
+
 .titre {
     display: inline-block;
     font-size: 30px;
