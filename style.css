@@ -1,0 +1,40 @@
+.main{
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 10vw;
+}
+
+.titre, .paragraph, .carte-description {
+   font-family: sans-serif; 
+   background-color: rgba(17, 15, 15, 0.589);
+   padding: 10px;
+   color:rgba(255, 255, 255, 0.849)
+}
+.titre {
+    display: inline-block;
+    font-size: 40px;
+}
+
+.paragraph{ 
+    margin-top: 40px;
+    font-size: 15px;
+}
+
+.carte {
+    overflow: hidden;
+    margin: 3vw
+}
+.carte, .carte-image, .carte-description {
+    width: 50vw
+}
+
+.carte-image {
+    display: block;
+}
+
+.galerie {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
