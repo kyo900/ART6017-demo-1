@@ -1,4 +1,4 @@
-.main{
+.main {
     margin-left: 10vw;
     margin-right: 10vw;
     margin-top: 10vw;
@@ -12,12 +12,12 @@
 }
 .titre {
     display: inline-block;
-    font-size: 40px;
+    font-size: 30px;
 }
 
-.paragraph{ 
+.paragraphe {
     margin-top: 40px;
-    font-size: 15px;
+    font-size: 15px
 }
 
 .carte {
